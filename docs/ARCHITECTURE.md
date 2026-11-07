@@ -9,7 +9,7 @@ There is no implementation in this repository yet. This document describes a pro
 1. **Upstream base:** Arch Linux packages, kernel, systemd, pacman, and official repositories.
 2. **Image composition:** versioned profile and package selection, filesystem layout, boot configuration, and ISO assembly.
 3. **Desktop experience:** KDE Plasma defaults, display/login configuration, themes, icons, fonts, wallpapers, and selected applications.
-4. **Installation:** a validated installer workflow or an established upstream installer configured for ArchWi.
+4. **Installation:** a validated installer workflow or an established upstream installer configured for ArchWi OS.
 5. **System utilities:** optional tools for first-run setup, maintenance, diagnostics, and recovery.
 6. **Release engineering:** automated builds, artifact checksums, signatures, release notes, and reproducible build metadata.
 
@@ -23,7 +23,7 @@ Prefer a mature installer with a clear maintenance and security model if it meet
 
 ## Update model
 
-Use pacman and upstream Arch repositories by default. Any ArchWi-specific repository must have a documented signing model, package ownership, build provenance, mirror strategy, and incident response process. Never instruct users to disable package signature verification as a workaround.
+Use pacman and upstream Arch repositories by default. Any ArchWi OS-specific repository must have a documented signing model, package ownership, build provenance, mirror strategy, and incident response process. Never instruct users to disable package signature verification as a workaround.
 
 ## Compatibility
 
