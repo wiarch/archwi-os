@@ -48,3 +48,7 @@ No build or installation commands are available yet. Do not use this repository 
 ## License
 
 A project license has not yet been selected. ArchWi OS must preserve all applicable Arch Linux trademarks, upstream licenses, notices, and attribution. Do not imply that Arch Linux endorses or maintains ArchWi OS.
+
+---
+
+Part of the **[WI Arch](https://github.com/wiarch)** ecosystem.
