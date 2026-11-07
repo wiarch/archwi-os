@@ -1,12 +1,12 @@
-# ArchWi — Product Definition
+# ArchWi OS — Product Definition
 
 ## Summary
 
-ArchWi is the WI Arch initiative to create an Arch Linux-based operating system. Its goal is to provide a coherent desktop experience without hiding the flexibility and transparency of its upstream foundation.
+ArchWi OS is the WI Arch initiative to create an Arch Linux-based operating system. Its goal is to provide a coherent desktop experience without hiding the flexibility and transparency of its upstream foundation.
 
 ## Problem
 
-A raw Arch Linux installation gives users significant control but requires them to make many decisions about installation, desktop configuration, applications, drivers, maintenance, and recovery. ArchWi aims to offer a curated and repeatable starting point while keeping system behavior understandable.
+A raw Arch Linux installation gives users significant control but requires them to make many decisions about installation, desktop configuration, applications, drivers, maintenance, and recovery. ArchWi OS aims to offer a curated and repeatable starting point while keeping system behavior understandable.
 
 ## Target users
 
