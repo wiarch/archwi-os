@@ -1,6 +1,6 @@
-# Contributing to ArchWi
+# Contributing to ArchWi OS
 
-ArchWi is an early-stage Arch Linux-based operating system project. Contributions should favor upstream compatibility, reproducibility, security, and maintainability.
+ArchWi OS is an early-stage Arch Linux-based operating system project. Contributions should favor upstream compatibility, reproducibility, security, and maintainability.
 
 ## Before contributing
 

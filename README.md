@@ -1,6 +1,6 @@
-# ArchWi
+# ArchWi OS
 
-**ArchWi** is the WI Arch initiative to build an Arch Linux-based operating system and distribution.
+**ArchWi OS** is the WI Arch initiative to build an Arch Linux-based operating system and distribution.
 
 > Project status: **concept and documentation foundation**. This repository currently does not contain an installable operating system, ISO image, installer, package repository, or maintained system configuration.
 
@@ -47,4 +47,4 @@ No build or installation commands are available yet. Do not use this repository 
 
 ## License
 
-A project license has not yet been selected. ArchWi must preserve all applicable Arch Linux trademarks, upstream licenses, notices, and attribution. Do not imply that Arch Linux endorses or maintains ArchWi.
+A project license has not yet been selected. ArchWi OS must preserve all applicable Arch Linux trademarks, upstream licenses, notices, and attribution. Do not imply that Arch Linux endorses or maintains ArchWi OS.

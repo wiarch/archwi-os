@@ -1,8 +1,8 @@
-# Claude Code Instructions — ArchWi
+# Claude Code Instructions — ArchWi OS
 
 ## Project context
 
-ArchWi is a planned Arch Linux-based operating system under WI Arch. The repository currently contains documentation only. Do not assume an ISO, installer, package profile, or system utility exists.
+ArchWi OS is a planned Arch Linux-based operating system under WI Arch. The repository currently contains documentation only. Do not assume an ISO, installer, package profile, or system utility exists.
 
 ## Working rules
 

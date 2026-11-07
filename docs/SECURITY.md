@@ -2,7 +2,7 @@
 
 ## Status
 
-ArchWi is currently a documentation-only project. There is no installable image or installer in this repository. This policy describes requirements for future implementation.
+ArchWi OS is currently a documentation-only project. There is no installable image or installer in this repository. This policy describes requirements for future implementation.
 
 ## Security objectives
 
