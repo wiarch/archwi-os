@@ -1,6 +1,6 @@
-# ArchWi — Project Implementation Brief
+# ArchWi OS — Project Implementation Brief
 
-You are working in the ArchWi repository, a planned Arch Linux-based operating system under WI Arch.
+You are working in the ArchWi OS repository, a planned Arch Linux-based operating system under WI Arch.
 
 ## Current baseline
 
@@ -25,7 +25,7 @@ Deliver a minimal, reproducible, bootable Archiso image before implementing a cu
 
 ## Constraints
 
-- Do not claim ArchWi is production-ready.
+- Do not claim ArchWi OS is production-ready.
 - Do not build a custom installer in the first milestone.
 - Do not disable package signature checks or TLS verification.
 - Do not add unreviewed third-party repositories.
